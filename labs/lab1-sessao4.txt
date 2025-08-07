@@ -1,0 +1,52 @@
+Script started on Thu Aug  7 10:13:38 2025
+Restored session: Thu Aug  7 09:58:07 -03 2025
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI ~ % [K[?2004hccd git-workshop[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hg [7mgit revert HEAD[27m[15D[27mg[27mi[27mt[27m [27mr[27me[27mv[27me[27mr[27mt[27m [27mH[27mE[27mA[27mD[?2004l
+hint: Waiting for your editor to close the file... [?1049h[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"~/git-workshop/.git/COMMIT_EDITMSG" 11L, 283B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1HRevert "v5"[2;1H[K[3;1HThis reverts commit 1ed92e1c0ab34695abe0551cb83741acad5b86a5.[3;62H[K[5;1H# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#[7Cmodified:   README.md
+#
+[94m~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?4m[27m[23m[29m[m[H[2J[?25l[1;1HRevert "v5"
+
+This reverts commit 1ed92e1c0ab34695abe0551cb83741acad5b86a5.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#[7Cmodified:   README.md
+#
+[94m~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;1H"~/git-workshop/.git/COMMIT_EDITMSG" 11L, 283B[1;1H[?25h
+
+
+
+
+
+
+
+
+
+[?25l[24;1H[K[24;1H:[?25hwq[?25l[?2004l[>4;m".git/COMMIT_EDITMSG" 11L, 283B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[?25h[>4;m[K[main ab95e00] Revert "v5"
+ 1 file changed, 1 deletion(-)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit reset --hard HEAD~2[?2004l
+HEAD is now at 39b4871 v4
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit log --n online    eline[?2004l
+[?1h=[33m39b4871[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m v4[m
+[33ma70fb2c[m v3[m
+[33m2ddf1b2[m v2[m
+[33m482aa0d[m v1[m
+[33m4f2ae26[m Corrige v2 revertido[m
+[33m9a35ccc[m v2[m
+[33mb79c80b[m v1[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Aug  7 10:15:01 2025

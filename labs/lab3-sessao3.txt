@@ -1,0 +1,63 @@
+Script started on Thu Aug  7 13:25:46 2025
+Restored session: Thu Aug  7 13:25:41 -03 2025
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI ~ % [K[?2004hggit  g  ccd git -workshop[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit branch[?2004l
+[?1h=  branch1[m[m
+  branch2[m[m
+  branch3[m[m
+  feature[m[m
+  feature-123[m[m
+  feature-456[m[m
+  feature-a[m[m
+  feature-b[m[m
+* [32mmain[m[m
+  prod[m[m
+  test[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit log --oneline[27m
+[7mgit checkout -b test-reset[27m[K[A[23C[27mg[27mi[27mt[27m [27ml[27mo[27mg[27m [27m-[27m-[27mo[27mn[27me[27ml[27mi[27mn[27me[1B[27mg[27mi[27mt[27m [27mc[27mh[27me[27mc[27mk[27mo[27mu[27mt[27m [27m-[27mb[27m [27mt[27me[27ms[27mt[27m-[27mr[27me[27ms[27me[27mt[?2004l
+[?1h=[33me1b0efd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m commit limpo[m
+[33mc45e553[m[33m ([m[1;31morigin/main[m[33m)[m commit base[m
+[33mc6fd758[m[33m ([m[1;32mfeature[m[33m)[m commit no main[m
+[33m782bfb3[m configurando gitignore[m
+[33m7996f37[m Merge branch 'branch3'[m
+[33m35f8ac0[m Resolvido conflito[m
+[33mc8daaad[m[33m ([m[1;32mbranch3[m[33m)[m Commit na branch3[m
+[33mf583aeb[m[33m ([m[1;32mbranch2[m[33m)[m Commit na branch2[m
+[33m0702095[m[33m ([m[1;32mbranch1[m[33m)[m Commit na branch1[m
+[33m707a3a7[m Primeiro commit[m
+[33m0f780fc[m Resolve conflito entre A e B[m
+[33m4b084a4[m[33m ([m[1;32mfeature-b[m[33m)[m Feature B[m
+[33ma302704[m[33m ([m[1;32mfeature-a[m[33m)[m Feature A[m
+[33m172eae0[m v3 main[m
+[33ma1d31b1[m[33m ([m[1;32mtest[m[33m, [m[1;32mprod[m[33m)[m v2 main[m
+[33m0632f89[m algum commit[m
+[33me349dcf[m commit 2[m
+[33m1912d28[m commit 1[m
+[33m39b4871[m v4[m
+[33ma70fb2c[m v3[m
+[33m2ddf1b2[m v2[m
+[33m482aa0d[m v1[m
+[33m4f2ae26[m Corrige v2 revertido[m
+:[K[K[33m9a35ccc[m v2[m
+:[K[K[33mb79c80b[m v1[m
+:[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [K::[Kww[K[7m(END)[27m[K[K[?1l>Switched to a new branch 'test-reset'
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit reset --soft HEAD~1[27m[23D[27mg[27mi[27mt[27m [27mr[27me[27ms[27me[27mt[27m [27m-[27m-[27ms[27mo[27mf[27mt[27m [27mH[27mE[27mA[27mD[27m~[27m1[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit status[?2004l
+On branch test-reset
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   app.py[m
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit diff [?2004l
+[?1h=[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit add .[27m
+[7mgit commit -m 'agora vai'[27m[K[A[24C[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27m.[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m'[27ma[27mg[27mo[27mr[27ma[27m [27mv[27ma[27mi[27m'[?2004l
+[test-reset 2f70caf] agora vai
+ 1 file changed, 1 insertion(+)
+ create mode 100644 app.py
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Aug  7 13:26:37 2025

@@ -1,0 +1,59 @@
+Script started on Thu Aug  7 10:40:46 2025
+Restored session: Thu Aug  7 10:40:38 -03 2025
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI ~ % [K[?2004hccd git-workshop[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit brahcn   nch test[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit branch ori   prod[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mecho "v2 main" >> app.txt[27m
+[7mgit add app.txt[27m[K
+[7mgit commit -am "v2 main"[27m[K[A[A[25C[27me[27mc[27mh[27mo[27m [27m"[27mv[27m2[27m [27mm[27ma[27mi[27mn[27m"[27m [27m>[27m>[27m [27ma[27mp[27mp[27m.[27mt[27mx[27mt[1B[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27ma[27mp[27mp[27m.[27mt[27mx[27mt[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27ma[27mm[27m [27m"[27mv[27m2[27m [27mm[27ma[27mi[27mn[27m"[?2004l
+[main a1d31b1] v2 main
+ 1 file changed, 1 insertion(+)
+ create mode 100644 app.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit checkout test[?2004l
+Switched to branch 'test'
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit merge main[?2004l
+Updating 0632f89..a1d31b1
+Fast-forward
+ app.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+ create mode 100644 app.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit checkout prod[?2004l
+Switched to branch 'prod'
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit merge test[?2004l
+Updating 0632f89..a1d31b1
+Fast-forward
+ app.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+ create mode 100644 app.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit ce jeck    heckout main[?2004l
+Switched to branch 'main'
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mecho "v3 main" >> app.txt[27m
+[7mgit add .[27m[K
+[7mgit commit -am "v3 main"[27m[K[A[A[25C[27me[27mc[27mh[27mo[27m [27m"[27mv[27m3[27m [27mm[27ma[27mi[27mn[27m"[27m [27m>[27m>[27m [27ma[27mp[27mp[27m.[27mt[27mx[27mt[1B[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27m.[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27ma[27mm[27m [27m"[27mv[27m3[27m [27mm[27ma[27mi[27mn[27m"[?2004l
+[main 172eae0] v3 main
+ 2 files changed, 1 insertion(+)
+ create mode 100644 .DS_Store
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit branch[?2004l
+[?1h=* [32mmain[m[m
+  prod[m[m
+  test[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit log --oneline --all[27m[23D[27mg[27mi[27mt[27m [27ml[27mo[27mg[27m [27m-[27m-[27mo[27mn[27me[27ml[27mi[27mn[27me[27m [27m-[27m-[27ma[27ml[27ml[?2004l
+[?1h=[33m172eae0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m v3 main[m
+[33ma1d31b1[m[33m ([m[1;32mtest[m[33m, [m[1;32mprod[m[33m)[m v2 main[m
+[33m0632f89[m algum commit[m
+[33me349dcf[m commit 2[m
+[33m1912d28[m commit 1[m
+[33m39b4871[m v4[m
+[33ma70fb2c[m v3[m
+[33m2ddf1b2[m v2[m
+[33m482aa0d[m v1[m
+[33m4f2ae26[m Corrige v2 revertido[m
+[33m9a35ccc[m v2[m
+[33mb79c80b[m v1[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Aug  7 10:42:12 2025

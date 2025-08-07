@@ -1,0 +1,38 @@
+Script started on Thu Aug  7 09:54:34 2025
+Restored session: Thu Aug  7 09:48:28 -03 2025
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI ~ % [K[?2004hccd git 
+[JBalança\ video\ pronto.mp4*  Postman/
+Desktop/                     Public/
+Development/                 git-workshop/
+Documents/                   go/
+Downloads/                   lab1-sessao1.txt
+Library/                     lab1-sessao2.txt
+Movies/                      ssh-cdc.pem
+Music/                       upload-keystore.jks
+Pictures/                    [9A[0m[27m[24m[38Ccd git[K[1Cw
+[J[A[46C -workshop[1m/[0m[0m [?2004l
+[J[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mecho "v1" > README.md[27m
+[7mgit add README.md[27m[K
+[7mgit commit -m "v1"[27m[K[A[A[31C[27me[27mc[27mh[27mo[27m [27m"[27mv[27m1[27m"[27m [27m>[27m [27mR[27mE[27mA[27mD[27mM[27mE[27m.[27mm[27md[1B[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27mR[27mE[27mA[27mD[27mM[27mE[27m.[27mm[27md[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m"[27mv[27m1[27m"[?2004l
+[main 482aa0d] v1
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mecho "v2" >> README.md && git c[7mo[7mmmit -am "v2"[27m[K
+[7mecho "v3" >> README.md && git commit -am "v3"[27m[K
+[7mecho "v4" >> README.md && git commit -am "v4"[27m[K
+[7mecho "v5" >> README.md && git commit -am "v5"[27m[K[4A[4C[27me[27mc[27mh[27mo[27m [27m"[27mv[27m2[27m"[27m [27m>[27m>[27m [27mR[27mE[27mA[27mD[27mM[27mE[27m.[27mm[27md[27m [27m&[27m&[27m [27mg[27mi[27mt[27m [27mco[27mm[27mm[27mi[27mt[27m [27m-[27ma[27mm[27m [27m"[27mv[27m2[27m"[1B[27me[27mc[27mh[27mo[27m [27m"[27mv[27m3[27m"[27m [27m>[27m>[27m [27mR[27mE[27mA[27mD[27mM[27mE[27m.[27mm[27md[27m [27m&[27m&[27m [27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27ma[27mm[27m [27m"[27mv[27m3[27m"[1B[27me[27mc[27mh[27mo[27m [27m"[27mv[27m4[27m"[27m [27m>[27m>[27m [27mR[27mE[27mA[27mD[27mM[27mE[27m.[27mm[27md[27m [27m&[27m&[27m [27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27ma[27mm[27m [27m"[27mv[27m4[27m"[1B[27me[27mc[27mh[27mo[27m [27m"[27mv[27m5[27m"[27m [27m>[27m>[27m [27mR[27mE[27mA[27mD[27mM[27mE[27m.[27mm[27md[27m [27m&[27m&[27m [27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27ma[27mm[27m [27m"[27mv[27m5[27m"[?2004l
+[main 2ddf1b2] v2
+ 1 file changed, 1 insertion(+)
+[main a70fb2c] v3
+ 1 file changed, 1 insertion(+)
+[main 39b4871] v4
+ 1 file changed, 1 insertion(+)
+[main 1ed92e1] v5
+ 1 file changed, 1 insertion(+)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Aug  7 09:55:39 2025

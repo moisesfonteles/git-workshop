@@ -1,0 +1,49 @@
+Script started on Thu Aug  7 10:50:36 2025
+Restored session: Thu Aug  7 10:50:23 -03 2025
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI ~ % [K[?2004hggit  g  ccd git-workshop[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004httouch .env[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mecho ".env" >> .gitignore[27m[25D[27me[27mc[27mh[27mo[27m [27m"[27m.[27me[27mn[27mv[27m"[27m [27m>[27m>[27m [27m.[27mg[27mi[27mt[27mi[27mg[27mn[27mo[27mr[27me[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit status[?2004l
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hccat .gitignore[?2004l
+.env
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit add .gitignore[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit commit -am ""c"o"n"f"i"g"u"r"a"n"d"o" "g" [K[A[79Ci"t"tn"t" " [A[79C" [K[A[78Ci"t"tg"t" ti"g"n"o"t"r"" " r"e"[1C[?2004l
+[main 782bfb3] configurando gitignore
+ 1 file changed, 1 insertion(+)
+ create mode 100644 .gitignore
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit log --oneline --all[?2004l
+[?1h=[33m782bfb3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m configurando gitignore[m
+[33m7996f37[m Merge branch 'branch3'[m
+[33m35f8ac0[m Resolvido conflito[m
+[33mc8daaad[m[33m ([m[1;32mbranch3[m[33m)[m Commit na branch3[m
+[33mf583aeb[m[33m ([m[1;32mbranch2[m[33m)[m Commit na branch2[m
+[33m0702095[m[33m ([m[1;32mbranch1[m[33m)[m Commit na branch1[m
+[33m707a3a7[m Primeiro commit[m
+[33m0f780fc[m Resolve conflito entre A e B[m
+[33m4b084a4[m[33m ([m[1;32mfeature-b[m[33m)[m Feature B[m
+[33ma302704[m[33m ([m[1;32mfeature-a[m[33m)[m Feature A[m
+[33m172eae0[m v3 main[m
+[33ma1d31b1[m[33m ([m[1;32mtest[m[33m, [m[1;32mprod[m[33m)[m v2 main[m
+[33m0632f89[m algum commit[m
+[33me349dcf[m commit 2[m
+[33m1912d28[m commit 1[m
+[33m39b4871[m v4[m
+[33ma70fb2c[m v3[m
+[33m2ddf1b2[m v2[m
+[33m482aa0d[m v1[m
+[33m4f2ae26[m Corrige v2 revertido[m
+[33m9a35ccc[m v2[m
+[33mb79c80b[m v1[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Aug  7 10:52:12 2025
