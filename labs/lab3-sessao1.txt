@@ -1,0 +1,98 @@
+Script started on Thu Aug  7 13:21:56 2025
+Restored session: Thu Aug  7 13:21:39 -03 2025
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI ~ % [K[?2004hccd git-workshop[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mecho "linha 1" > log.txt[27m
+[7mgit add log.txt[27m[K
+[7mgit commit -m "Commit 1"[27m[K[A[A[25C[27me[27mc[27mh[27mo[27m [27m"[27ml[27mi[27mn[27mh[27ma[27m [27m1[27m"[27m [27m>[27m [27ml[27mo[27mg[27m.[27mt[27mx[27mt[1B[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27ml[27mo[27mg[27m.[27mt[27mx[27mt[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m"[27mC[27mo[27mm[27mm[27mi[27mt[27m [27m1[27m"[?2004l
+[feature-123 3e61b9d] Commit 1
+ 1 file changed, 1 insertion(+)
+ create mode 100644 log.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mecho "linha 2" >> log.txt[27m
+[7mgit commit -am "Commit 2"[27m[K[A[24C[27me[27mc[27mh[27mo[27m [27m"[27ml[27mi[27mn[27mh[27ma[27m [27m2[27m"[27m [27m>[27m>[27m [27ml[27mo[27mg[27m.[27mt[27mx[27mt[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27ma[27mm[27m [27m"[27mC[27mo[27mm[27mm[27mi[27mt[27m [27m2[27m"[?2004l
+[feature-123 a2a6240] Commit 2
+ 1 file changed, 1 insertion(+)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mecho "linha 3" >> log.txt[27m
+[7mgit commit -am "Commit 3"[27m[K[A[24C[27me[27mc[27mh[27mo[27m [27m"[27ml[27mi[27mn[27mh[27ma[27m [27m3[27m"[27m [27m>[27m>[27m [27ml[27mo[27mg[27m.[27mt[27mx[27mt[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27ma[27mm[27m [27m"[27mC[27mo[27mm[27mm[27mi[27mt[27m [27m3[27m"[?2004l
+[feature-123 837a6e6] Commit 3
+ 1 file changed, 1 insertion(+)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit log --i oneline[?2004l
+[?1h=[33m837a6e6[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-123[m[33m)[m Commit 3[m
+[33ma2a6240[m Commit 2[m
+[33m3e61b9d[m Commit 1[m
+[33m38dd5e2[m Alteração no branch A[m
+[33mccd1f8a[m[33m ([m[1;32mfeature-456[m[33m)[m Alteração no branch B[m
+[33mc45e553[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m commit base[m
+[33mc6fd758[m[33m ([m[1;32mfeature[m[33m)[m commit no main[m
+[33m782bfb3[m configurando gitignore[m
+[33m7996f37[m Merge branch 'branch3'[m
+[33m35f8ac0[m Resolvido conflito[m
+[33mc8daaad[m[33m ([m[1;32mbranch3[m[33m)[m Commit na branch3[m
+[33mf583aeb[m[33m ([m[1;32mbranch2[m[33m)[m Commit na branch2[m
+[33m0702095[m[33m ([m[1;32mbranch1[m[33m)[m Commit na branch1[m
+[33m707a3a7[m Primeiro commit[m
+[33m0f780fc[m Resolve conflito entre A e B[m
+[33m4b084a4[m[33m ([m[1;32mfeature-b[m[33m)[m Feature B[m
+[33ma302704[m[33m ([m[1;32mfeature-a[m[33m)[m Feature A[m
+[33m172eae0[m v3 main[m
+[33ma1d31b1[m[33m ([m[1;32mtest[m[33m, [m[1;32mprod[m[33m)[m v2 main[m
+[33m0632f89[m algum commit[m
+[33me349dcf[m commit 2[m
+[33m1912d28[m commit 1[m
+[33m39b4871[m v4[m
+:[K[K[33ma70fb2c[m v3[m
+:[K[K[33m2ddf1b2[m v2[m
+:[K[K[33m482aa0d[m v1[m
+:[K[K[33m4f2ae26[m Corrige v2 revertido[m
+:[K[K[33m9a35ccc[m v2[m
+:[K[K[33mb79c80b[m v1[m
+:[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [KESCESC[Kqq[K[7m(END)[27m[K[K [K::[Kww[K[7m(END)[27m[K[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit tag v1.0 HEAD~2 [27m[20D[27mg[27mi[27mt[27m [27mt[27ma[27mg[27m [27mv[27m1[27m.[27m0[27m [27mH[27mE[27mA[27mD[27m~[27m2[27m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit tag v1.1 HEAD~1[27m[19D[27mg[27mi[27mt[27m [27mt[27ma[27mg[27m [27mv[27m1[27m.[27m1[27m [27mH[27mE[27mA[27mD[27m~[27m1[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit tag v1.2 HEAD  [27m[19D[27mg[27mi[27mt[27m [27mt[27ma[27mg[27m [27mv[27m1[27m.[27m2[27m [27mH[27mE[27mA[27mD[27m [27m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit ga  tag[?2004l
+[?1h=v1.0[m
+v1.1[m
+v1.2[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit show v1.1[?2004l
+[?1h=[33mcommit a2a6240b8bb41cca4f3a8dfee194834fbfbf13a6[m[33m ([m[1;33mtag: v1.1[m[33m)[m[m
+Author: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+Date:   Thu Aug 7 13:22:15 2025 -0300[m
+[m
+    Commit 2[m
+[m
+[1mdiff --git a/log.txt b/log.txt[m[m
+[1mindex 9ece502..b657d30 100644[m[m
+[1m--- a/log.txt[m[m
+[1m+++ b/log.txt[m[m
+[36m@@ -1 +1,2 @@[m[m
+ linha 1[m[m
+[32m+[m[32mlinha 2[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit checkout v1.0[27m[17D[27mg[27mi[27mt[27m [27mc[27mh[27me[27mc[27mk[27mo[27mu[27mt[27m [27mv[27m1[27m.[27m0[?2004l
+Note: switching to 'v1.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 3e61b9d Commit 1
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit checkout ai  main[?2004l
+Previous HEAD position was 3e61b9d Commit 1
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Aug  7 13:24:08 2025

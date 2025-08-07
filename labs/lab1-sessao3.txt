@@ -1,0 +1,38 @@
+Script started on Thu Aug  7 09:56:47 2025
+Restored session: Thu Aug  7 09:55:39 -03 2025
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI ~ % [K[?2004hccd git-workshop[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit log --oneline[?2004l
+[?1h=[33m1ed92e1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m v5[m
+[33m39b4871[m v4[m
+[33ma70fb2c[m v3[m
+[33m2ddf1b2[m v2[m
+[33m482aa0d[m v1[m
+[33m4f2ae26[m Corrige v2 revertido[m
+[33m9a35ccc[m v2[m
+[33mb79c80b[m v1[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit log -1[?2004l
+[?1h=[33mcommit 1ed92e1c0ab34695abe0551cb83741acad5b86a5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m[m
+Author: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+Date:   Thu Aug 7 09:55:29 2025 -0300[m
+[m
+    v5[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit config user.name[27m
+[7mgit config user.email[27m[K[A[28C[27mg[27mi[27mt[27m [27mc[27mo[27mn[27mf[27mi[27mg[27m [27mu[27ms[27me[27mr[27m.[27mn[27ma[27mm[27me[1B[27mg[27mi[27mt[27m [27mc[27mo[27mn[27mf[27mi[27mg[27m [27mu[27ms[27me[27mr[27m.[27me[27mm[27ma[27mi[27ml[?2004l
+moises.fonteles@docasdoceara.com.br
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit diff HEAD~1 HEAD[27m[20D[27mg[27mi[27mt[27m [27md[27mi[27mf[27mf[27m [27mH[27mE[27mA[27mD[27m~[27m1[27m [27mH[27mE[27mA[27mD[?2004l
+[?1h=[1mdiff --git a/README.md b/README.md[m[m
+[1mindex ed7ce12..4d73d61 100644[m[m
+[1m--- a/README.md[m[m
+[1m+++ b/README.md[m[m
+[36m@@ -2,3 +2,4 @@[m [mv1[m[m
+ v2[m[m
+ v3[m[m
+ v4[m[m
+[32m+[m[32mv5[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Aug  7 09:58:07 2025

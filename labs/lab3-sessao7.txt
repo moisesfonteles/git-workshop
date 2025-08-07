@@ -1,0 +1,49 @@
+Script started on Thu Aug  7 13:33:33 2025
+Restored session: Thu Aug  7 13:33:23 -03 2025
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI ~ % [K[?2004hccd git-workshop[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit tag hotfix[27m[14D[27mg[27mi[27mt[27m [27mt[27ma[27mg[27m [27mh[27mo[27mt[27mf[27mi[27mx[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit tag[27m[27mg[27mi[27mt[27m [27mt[27ma[27mg[?2004l
+[?1h=hotfix[m
+v1.0[m
+v1.1[m
+v1.2[m
+v2.0[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit tag -d hotfix[27m[17D[27mg[27mi[27mt[27m [27mt[27ma[27mg[27m [27m-[27md[27m [27mh[27mo[27mt[27mf[27mi[27mx[?2004l
+Deleted tag 'hotfix' (was 673143d)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit tag -a hotfix -m "Hotfix an[7mo[7mtado"[27m[K
+[7mgit show hotfix[27m[K[A[A[34C[27mg[27mi[27mt[27m [27mt[27ma[27mg[27m [27m-[27ma[27m [27mh[27mo[27mt[27mf[27mi[27mx[27m [27m-[27mm[27m [27m"[27mH[27mo[27mt[27mf[27mi[27mx[27m [27ma[27mno[27mt[27ma[27md[27mo[27m"[1B[27mg[27mi[27mt[27m [27ms[27mh[27mo[27mw[27m [27mh[27mo[27mt[27mf[27mi[27mx[?2004l
+[?1h=[33mtag hotfix[m[m
+Tagger: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+Date:   Thu Aug 7 13:34:01 2025 -0300[m
+[m
+Hotfix anotado[m
+[m
+[33mcommit 673143dbed953931bd44958e8c141b2ea858348e[m[33m ([m[1;36mHEAD -> [m[1;32mtest_revert[m[33m, [m[1;33mtag: v2.0[m[33m,[m [33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;33m[m[33m [m[1;33mtag: hotfix[m[33m)[m[m
+Author: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+Date:   Thu Aug 7 13:32:51 2025 -0300[m
+[m
+    Commit com anotação de versão[m
+[m
+[1mdiff --git a/arquivo.txt b/arquivo.txt[m[m
+[1mindex 24c03fb..3a497ca 100644[m[m
+[1m--- a/arquivo.txt[m[m
+[1m+++ b/arquivo.txt[m[m
+[36m@@ -1 +1,2 @@[m[m
+[31m-linha base[m[m
+[32m+[m[m
+[32m+[m[32mlinha final desejada no arquivo[m[m
+[1mdiff --git a/versao.txt b/versao.txt[m[m
+[1mnew file mode 100644[m[m
+:[K[K[1mindex 0000000..1bab1b1[m[m
+:[K[K[1m--- /dev/null[m[m
+:[K[K[1m+++ b/versao.txt[m[m
+:[K[K[36m@@ -0,0 +1,2 @@[m[m
+:[K[K[32m+[m[32mversão com notaversão com nota[m[m
+:[K[K[32m+[m[32mversão com nota[m[m
+:[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [K::[Kww[K[7m(END)[27m[K[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Aug  7 13:34:07 2025

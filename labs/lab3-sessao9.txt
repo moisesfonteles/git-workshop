@@ -1,0 +1,46 @@
+Script started on Thu Aug  7 13:34:57 2025
+Restored session: Thu Aug  7 13:34:49 -03 2025
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI ~ % [K[?2004hggit tag[?2004l
+fatal: not a git repository (or any of the parent directories): .git
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI ~ % [K[?2004hccd git-workshop[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hcd git-workshop[15Dgit tag        [8D[?2004l
+[?1h=hotfix[m
+release-1.0[m
+v1.0[m
+v1.1[m
+v1.2[m
+v2.0[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit checkout v1.1[27m[17D[27mg[27mi[27mt[27m [27mc[27mh[27me[27mc[27mk[27mo[27mu[27mt[27m [27mv[27m1[27m.[27m1[?2004l
+Note: switching to 'v1.1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at a2a6240 Commit 2
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit switch -c branch-v1.1[27m[25D[27mg[27mi[27mt[27m [27ms[27mw[27mi[27mt[27mc[27mh[27m [27m-[27mc[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m-[27mv[27m1[27m.[27m1[?2004l
+Switched to a new branch 'branch-v1.1'
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mecho "patch para v1.1" >> chang[7me[7mlog.txt[27m[K
+[7mgit add . && git commit -m "patch para versão 1.1"[27m[K[A[A[27me[27mc[27mh[27mo[27m [27m"[27mp[27ma[27mt[27mc[27mh[27m [27mp[27ma[27mr[27ma[27m [27mv[27m1[27m.[27m1[27m"[27m [27m>[27m>[27m [27mc[27mh[27ma[27mn[27mge[27ml[27mo[27mg[27m.[27mt[27mx[27mt[1B[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27m.[27m [27m&[27m&[27m [27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m"[27mp[27ma[27mt[27mc[27mh[27m [27mp[27ma[27mr[27ma[27m [27mv[27me[27mr[27ms[27mã[27mo[27m [27m1[27m.[27m1[27m"[?2004l
+grep: *.py: No such file or directory
+[branch-v1.1 000eb25] patch para versão 1.1
+ 1 file changed, 1 insertion(+)
+ create mode 100644 changelog.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Aug  7 13:35:35 2025

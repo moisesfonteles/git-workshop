@@ -1,0 +1,115 @@
+Script started on Thu Aug  7 10:54:38 2025
+Restored session: Thu Aug  7 10:54:22 -03 2025
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI ~ % [K[?2004hccd git-workshop[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit checkout main[?2004l
+Switched to branch 'main'
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mecho "linha base" > arquivo.txt[27m [K
+[7mgit add .[27m[K
+[7mgit commit -m "commit base"[27m[K[3A[22C[27me[27mc[27mh[27mo[27m [27m"[27ml[27mi[27mn[27mh[27ma[27m [27mb[27ma[27ms[27me[27m"[27m [27m>[27m [27ma[27mr[27mq[27mu[27mi[27mv[27mo[27m.[27mt[27mx[27mt [1B[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27m.[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m"[27mc[27mo[27mm[27mm[27mi[27mt[27m [27mb[27ma[27ms[27me[27m"[?2004l
+[main c45e553] commit base
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit checkout -b feature-123[27m[27D[27mg[27mi[27mt[27m [27mc[27mh[27me[27mc[27mk[27mo[27mu[27mt[27m [27m-[27mb[27m [27mf[27me[27ma[27mt[27mu[27mr[27me[27m-[27m1[27m2[27m3[?2004l
+Switched to a new branch 'feature-123'
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mecho "mudança A" >> arquivo.txt[27m [K
+[7mgit commit -am "Alteração no branch A"[27m[K[A[A[11C[27me[27mc[27mh[27mo[27m [27m"[27mm[27mu[27md[27ma[27mn[27mç[27ma[27m [27mA[27m"[27m [27m>[27m>[27m [27ma[27mr[27mq[27mu[27mi[27mv[27mo[27m.[27mt[27mx[27mt [1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27ma[27mm[27m [27m"[27mA[27ml[27mt[27me[27mr[27ma[27mç[27mã[27mo[27m [27mn[27mo[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27mA[27m"[?2004l
+[feature-123 5f3c3b7] Alteração no branch A
+ 1 file changed, 1 insertion(+)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit checkout main[?2004l
+Switched to branch 'main'
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit checkot uyt  t -b feature -456[?2004l
+Switched to a new branch 'feature-456'
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mecho "mudança B" >> arquivo.txt[27m [K
+[7mgit commit -am "Alteração no branch B"[27m[K
+[K[3A[49C[27me[27mc[27mh[27mo[27m [27m"[27mm[27mu[27md[27ma[27mn[27mç[27ma[27m [27mB[27m"[27m [27m>[27m>[27m [27ma[27mr[27mq[27mu[27mi[27mv[27mo[27m.[27mt[27mx[27mt [1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27ma[27mm[27m [27m"[27mA[27ml[27mt[27me[27mr[27ma[27mç[27mã[27mo[27m [27mn[27mo[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27mB[27m"[1B[K[?2004l
+[feature-456 ccd1f8a] Alteração no branch B
+ 1 file changed, 1 insertion(+)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit checku out feature-123[?2004l
+Switched to branch 'feature-123'
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit rebase feature-456[?2004l
+Rebasing (1/1)Auto-merging arquivo.txt
+CONFLICT (content): Merge conflict in arquivo.txt
+error: could not apply 5f3c3b7... Alteração no branch A
+[33mhint: Resolve all conflicts manually, mark them as resolved with[m
+[33mhint: "git add/rm <conflicted_files>", then run "git rebase --continue".[m
+[33mhint: You can instead skip this commit: run "git rebase --skip".[m
+[33mhint: To abort and get back to the state before "git rebase", run "git rebase --abort".[m
+Could not apply 5f3c3b7... Alteração no branch A
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mnano arquivo.txt[27m[16D[27mn[27ma[27mn[27mo[27m [27ma[27mr[27mq[27mu[27mi[27mv[27mo[27m.[27mt[27mx[27mt[?2004l
+[?1049h[1;24r[1;1H[J[7m  UW PICO 5.09                           New Buffer                             [27m[23;1H[K[24;1H[K[23;1H[7m^[27m[7mG[27m Get Help  [7m^[27m[7mO[27m WriteOut  [7m^[27m[7mR[27m Read File [7m^[27m[7mY[27m Prev Pg   [7m^[27m[7mK[27m Cut Text  [7m^[27m[7mC[27m Cur Pos   [K[24;1H[7m^[27m[7mX[27m Exit      [7m^[27m[7mJ[27m Justify   [7m^[27m[7mW[27m Where is  [7m^[27m[7mV[27m Next Pg   [7m^[27m[7mU[27m UnCut Text[7m^[27m[7mT[27m To Spell  [K[3;1H[22;1H                                                                                [22;33H[7m[ Reading file ][27m[22;1H                                                                                [22;33H[7m[ Read 6 lines ][27m[1;1H[J[7m  UW PICO 5.09                       File: arquivo.txt                          [27m[3;1Hlinha base[4;1H<<<<<<< HEAD[5;1Hmudança B[6;1H=======[7;1Hmudança A[8;1H>>>>>>> 5f3c3b7 (Alteração no branch A)[23;1H[K[24;1H[K[23;1H[7m^[27m[7mG[27m Get Help  [7m^[27m[7mO[27m WriteOut  [7m^[27m[7mR[27m Read File [7m^[27m[7mY[27m Prev Pg   [7m^[27m[7mK[27m Cut Text  [7m^[27m[7mC[27m Cur Pos   [K[24;1H[7m^[27m[7mX[27m Exit      [7m^[27m[7mJ[27m Justify   [7m^[27m[7mW[27m Where is  [7m^[27m[7mV[27m Next Pg   [7m^[27m[7mU[27m UnCut Text[7m^[27m[7mT[27m To Spell  [K[3;1H[4;1H[5;1H[4;1H[1;34H[7mFile: arquivo.txt                    Modified[27m[4;7H[P[4;1H[4;6H[P[4;1H[4;5H[P[4;1H[4;4H[P[4;1H[4;3H[P[4;1H[4;2H[P[4;1H[P[4;1H[P[4;1H[P[4;1HAD [4;1HD [4;1H [4;1H[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H B [5;1HB [5;1H [5;1H=======[6;1Hmudança A[7;1H>>>>>>> 5f3c3b7 (Alteração no branch A)[8;1H[K[5;1H[6;1H[5;1H[5;7H [5;1H[5;6H [5;1H[5;5H [5;1H[5;4H [5;1H[5;3H [5;1H[5;2H [5;1H [5;1Hmudança A[6;1H>>>>>>> 5f3c3b7 (Alteração no branch A)[7;1H[K[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H A [5;1HA [5;1H [5;1H>>>>>>> 5f3c3b7 (Alteração no branch A)[6;1H[K[5;1H[5;7H[P[5;1H[5;6H[P[5;1H[5;5H[P[5;1H[5;4H[P[5;1H[5;3H[P[5;1H[5;2H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1HA) [5;1H) [5;1H [5;1H[4;1H[3;11H[23;1H             [7mY[27m Yes                                                            [K[24;2H[7mC[27m Cancel    [7mN[27m No                                                             [K[22;1H                                                                                [22;1H[7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                    [22;62H[27m[7mYes[27m[22;1H                                                                                [22;1H[7mFile Name to write :                                                            [22;22H[27m[23;1H[7m^[27m[7mG[27m Get Help  [7m^[27m[7mT[27m  To Files                                                     [K[24;14H[7mT[27m[7mA[27m[7mB[27m Complete                                                     [K[7m[22;22Harquivo.txt                                                [22;33H[27m[22;1H                                                                                [22;1H[7mFile Name to write :                                                            [22;22H[27m[7marquivo.txt                                                [22;33H[27m[22;1H                                                                                [22;34H[7m[ Writing... ][27m[22;1H                                                                                [22;33H[7m[ Wrote 1 line ][27m[23;1H[K[24;1H[K[?1049l[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit add arquivo.txt[27m
+[7mgit rebase --continue[27m[K[A[28C[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27ma[27mr[27mq[27mu[27mi[27mv[27mo[27m.[27mt[27mx[27mt[1B[27mg[27mi[27mt[27m [27mr[27me[27mb[27ma[27ms[27me[27m [27m-[27m-[27mc[27mo[27mn[27mt[27mi[27mn[27mu[27me[?2004l
+hint: Waiting for your editor to close the file... [?1049h[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"~/git-workshop/.git/COMMIT_EDITMSG" 14L, 435B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1HAlteração no branch A[2;1H[K[3;1H# Please enter the commit message for your changes. Lines starting[3;67H[K[4;1H# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto ccd1f8a
+# Last command done (1 command done):
+#    pick 5f3c3b7 Alteração no branch A
+# No commands remaining.
+# You are currently rebasing branch 'feature-123' on 'ccd1f8a'.
+#
+# Changes to be committed:
+#[7Cmodified:   arquivo.txt
+#
+[94m~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?4m[27m[23m[29m[m[H[2J[?25l[1;1HAlteração no branch A
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto ccd1f8a
+# Last command done (1 command done):
+#    pick 5f3c3b7 Alteração no branch A
+# No commands remaining.
+# You are currently rebasing branch 'feature-123' on 'ccd1f8a'.
+#
+# Changes to be committed:
+#[7Cmodified:   arquivo.txt
+#
+[94m~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;1H"~/git-workshop/.git/COMMIT_EDITMSG" 14L, 435B[1;1H[?25h
+
+
+
+
+
+
+
+
+
+
+
+
+[?25l[24;1H[K[24;1H:[?25hwq[?25l[?2004l[>4;m".git/COMMIT_EDITMSG" 14L, 435B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[?25h[>4;m[K[detached HEAD 38dd5e2] Alteração no branch A
+ 1 file changed, 1 deletion(-)
+[KSuccessfully rebased and updated refs/heads/feature-123.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit log --oneline --all[?2004l
+[?1h=[33m38dd5e2[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-123[m[33m)[m Alteração no branch A[m
+[33mccd1f8a[m[33m ([m[1;32mfeature-456[m[33m)[m Alteração no branch B[m
+[33mc45e553[m[33m ([m[1;32mmain[m[33m)[m commit base[m
+[33mc6fd758[m[33m ([m[1;32mfeature[m[33m)[m commit no main[m
+[33m782bfb3[m configurando gitignore[m
+[33m7996f37[m Merge branch 'branch3'[m
+[33m35f8ac0[m Resolvido conflito[m
+[33mc8daaad[m[33m ([m[1;32mbranch3[m[33m)[m Commit na branch3[m
+[33mf583aeb[m[33m ([m[1;32mbranch2[m[33m)[m Commit na branch2[m
+[33m0702095[m[33m ([m[1;32mbranch1[m[33m)[m Commit na branch1[m
+[33m707a3a7[m Primeiro commit[m
+[33m0f780fc[m Resolve conflito entre A e B[m
+[33m4b084a4[m[33m ([m[1;32mfeature-b[m[33m)[m Feature B[m
+[33ma302704[m[33m ([m[1;32mfeature-a[m[33m)[m Feature A[m
+[33m172eae0[m v3 main[m
+[33ma1d31b1[m[33m ([m[1;32mtest[m[33m, [m[1;32mprod[m[33m)[m v2 main[m
+[33m0632f89[m algum commit[m
+[33me349dcf[m commit 2[m
+[33m1912d28[m commit 1[m
+[33m39b4871[m v4[m
+[33ma70fb2c[m v3[m
+[33m2ddf1b2[m v2[m
+[33m482aa0d[m v1[m
+:[K[K[33m4f2ae26[m Corrige v2 revertido[m
+:[K[K[33m9a35ccc[m v2[m
+:[K[K[33mb79c80b[m v1[m
+:[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K [K::[Kww[K[7m(END)[27m[K[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Aug  7 10:57:25 2025

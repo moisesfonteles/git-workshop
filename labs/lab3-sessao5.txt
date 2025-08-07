@@ -1,0 +1,330 @@
+Script started on Thu Aug  7 13:27:57 2025
+Restored session: Thu Aug  7 13:27:52 -03 2025
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI ~ % [K[?2004hggit  g  ccd git-workshop[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit branch[?2004l
+[?1h=  branch1[m[m
+  branch2[m[m
+  branch3[m[m
+  feature[m[m
+  feature-123[m[m
+  feature-456[m[m
+  feature-a[m[m
+  feature-b[m[m
+  main[m[m
+  prod[m[m
+  test[m[m
+* [32mtest-hard[m[m
+  test-reset[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit log[?2004l
+[?1h=[33mcommit c45e553b42ca9e928603c4be293ebf222032863a[m[33m ([m[1;36mHEAD -> [m[1;32mtest-hard[m[33m, [m[1;31morigin/main[m[33m)[m[m
+Author: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+Date:   Thu Aug 7 10:54:59 2025 -0300[m
+[m
+    commit base[m
+[m
+[33mcommit c6fd758c21af0e012cba4712bda5a9469584fef5[m[33m ([m[1;32mfeature[m[33m)[m[m
+Author: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+Date:   Thu Aug 7 10:53:21 2025 -0300[m
+[m
+    commit no main[m
+[m
+[33mcommit 782bfb335363a7cb21ea3422261c01ab1c02cdd2[m[m
+Author: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+Date:   Thu Aug 7 10:52:02 2025 -0300[m
+[m
+    configurando gitignore[m
+[m
+[33mcommit 7996f371431965fc033312ea6c322a11471eb221[m[m
+Merge: 35f8ac0 c8daaad[m
+Author: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+Date:   Thu Aug 7 10:49:39 2025 -0300[m
+[m
+:[K[K    Merge branch 'branch3'[m
+:[K[K[m
+:[K[K[33mcommit 35f8ac08ceb2113335ac7d67eb1fd2cdc0ade515[m[m
+:[K[KMerge: 0702095 f583aeb[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:49:25 2025 -0300[m
+:[K[K[m
+:[K[K    Resolvido conflito[m
+:[K[K[m
+:[K[K[33mcommit c8daaadbd48893ad365b154b9d902165eda9c922[m[33m ([m[1;32mbranch3[m[33m)[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:47:16 2025 -0300[m
+:[K[K[m
+:[K[K    Commit na branch3[m
+:[K[K[m
+:[K[K[33mcommit f583aeb1fed11e3e9a8e660a2b11ecba796120de[m[33m ([m[1;32mbranch2[m[33m)[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:47:06 2025 -0300[m
+:[K[K[m
+:[K[K    Commit na branch2[m
+:[K[K[m
+:[K[K[33mcommit 070209506c1b4f1a31a779372eb839db1b3add94[m[33m ([m[1;32mbranch1[m[33m)[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:46:51 2025 -0300[m
+:[K[K[m
+:[K[K    Commit na branch1[m
+:[K[K[m
+:[K[K[33mcommit 707a3a72f82a7cdc1c7dce5762f13b6726de1be9[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:46:18 2025 -0300[m
+:[K[K[m
+:[K[K    Primeiro commit[m
+:[K[K[m
+:[K[K[33mcommit 0f780fcf8b6610b38aa2f2c952d178600233de2f[m[m
+:[K[KMerge: a302704 4b084a4[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:45:19 2025 -0300[m
+:[K[K[m
+:[K[K    Resolve conflito entre A e B[m
+:[K[K[m
+:[K[K[33mcommit 4b084a453e61c7d159934016ca4fc35382347c9e[m[33m ([m[1;32mfeature-b[m[33m)[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:43:26 2025 -0300[m
+:[K[K[m
+:[K[K    Feature B[m
+:[K[K[m
+:[K[K[33mcommit a302704c39c57ba3d363837487f75a59f0179545[m[33m ([m[1;32mfeature-a[m[33m)[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:43:05 2025 -0300[m
+:[K[K[m
+:[K[K    Feature A[m
+:[K[K[m
+:[K[K[33mcommit 172eae057369ee909997c73350b9bae7c8bdf942[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:41:46 2025 -0300[m
+:[K[K[m
+:[K[K    v3 main[m
+:[K[K[m
+:[K[K[33mcommit a1d31b14243d341de5359713bdc05bb2962eb891[m[33m ([m[1;32mtest[m[33m, [m[1;32mprod[m[33m)[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:41:10 2025 -0300[m
+:[K[K[m
+:[K[K    v2 main[m
+:[K[K[m
+:[K[K[33mcommit 0632f89f082870bd8ee17d9eadbdb991720ee482[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:22:23 2025 -0300[m
+:[K[K[m
+:[K[K    algum commit[m
+:[K[K[m
+:[K[K[33mcommit e349dcfbd177b5c8f831d473d17404af88b49b71[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:18:24 2025 -0300[m
+:[K[K[m
+:[K[K    commit 2[m
+:[K[K[m
+:[K[K[33mcommit 1912d2813b6a6fde8f73071f06121964a824b1cd[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:16:41 2025 -0300[m
+:[K[K[m
+:[K[K    commit 1[m
+:[K[K[m
+:[K[K[33mcommit 39b4871840b01c2eb0e601187e0438ac343573dd[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 09:55:29 2025 -0300[m
+:[K[K[m
+:[K[K    v4[m
+:[K[K[m
+:[K[K[33mcommit a70fb2c43bf4bcb0dbefa89eef0e8ba7c14bea0d[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 09:55:29 2025 -0300[m
+:[K[K[m
+:[K[K    v3[m
+:[K[K[m
+:[K[K[33mcommit 2ddf1b2761e9cbf1a98dbda8c67f183c791bb288[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 09:55:29 2025 -0300[m
+:[K[K[m
+:[K[K    v2[m
+:[K[K[m
+:[K[K[33mcommit 482aa0de86a6d99613863675cac5250afa46633f[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 09:55:16 2025 -0300[m
+:[K[K[m
+:[K[K    v1[m
+:[K[K[m
+:[K[K[33mcommit 4f2ae26ec138ba58bea798dbaa30e0e52921d4ea[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 09:48:08 2025 -0300[m
+:[K[K[m
+:[K[K    Corrige v2 revertido[m
+:[K[K[m
+:[K[K[33mcommit 9a35ccc780b22a404bd16e5d7bfb404294a256f5[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 09:46:39 2025 -0300[m
+:[K[K[m
+:[K[K    v2[m
+:[K[K[m
+:[K[K[33mcommit b79c80b8d293aff922b486048b44accd6649119b[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 09:46:39 2025 -0300[m
+:[K[K[m
+:[K[K    v1[m
+:[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [K::[Kww[K[7m(END)[27m[K[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit checkout -b test_revert[27m[27D[27mg[27mi[27mt[27m [27mc[27mh[27me[27mc[27mk[27mo[27mu[27mt[27m [27m-[27mb[27m [27mt[27me[27ms[27mt[27m_[27mr[27me[27mv[27me[27mr[27mt[?2004l
+Switched to a new branch 'test_revert'
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit revert HEAD~1[27m[17D[27mg[27mi[27mt[27m [27mr[27me[27mv[27me[27mr[27mt[27m [27mH[27mE[27mA[27mD[27m~[27m1[?2004l
+Auto-merging arquivo.txt
+CONFLICT (content): Merge conflict in arquivo.txt
+error: could not revert c6fd758... commit no main
+[33mhint: After resolving the conflicts, mark them with[m
+[33mhint: "git add/rm <pathspec>", then run[m
+[33mhint: "git revert --continue".[m
+[33mhint: You can instead skip this commit with "git revert --skip".[m
+[33mhint: To abort and get back to the state before "git revert",[m
+[33mhint: run "git revert --abort".[m
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit log[?2004l
+[?1h=[33mcommit c45e553b42ca9e928603c4be293ebf222032863a[m[33m ([m[1;36mHEAD -> [m[1;32mtest_revert[m[33m, [m[1;31morigin/mai[m [33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31mn[m[33m, [m[1;32mtest-hard[m[33m)[m[m
+Author: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+Date:   Thu Aug 7 10:54:59 2025 -0300[m
+[m
+    commit base[m
+[m
+[33mcommit c6fd758c21af0e012cba4712bda5a9469584fef5[m[33m ([m[1;32mfeature[m[33m)[m[m
+Author: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+Date:   Thu Aug 7 10:53:21 2025 -0300[m
+[m
+    commit no main[m
+[m
+[33mcommit 782bfb335363a7cb21ea3422261c01ab1c02cdd2[m[m
+Author: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+Date:   Thu Aug 7 10:52:02 2025 -0300[m
+[m
+    configurando gitignore[m
+[m
+[33mcommit 7996f371431965fc033312ea6c322a11471eb221[m[m
+Merge: 35f8ac0 c8daaad[m
+Author: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+Date:   Thu Aug 7 10:49:39 2025 -0300[m
+:[K[K[m
+:[K[K    Merge branch 'branch3'[m
+:[K[K[m
+:[K[K[33mcommit 35f8ac08ceb2113335ac7d67eb1fd2cdc0ade515[m[m
+:[K[KMerge: 0702095 f583aeb[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:49:25 2025 -0300[m
+:[K[K[m
+:[K[K    Resolvido conflito[m
+:[K[K[m
+:[K[K[33mcommit c8daaadbd48893ad365b154b9d902165eda9c922[m[33m ([m[1;32mbranch3[m[33m)[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:47:16 2025 -0300[m
+:[K[K[m
+:[K[K    Commit na branch3[m
+:[K[K[m
+:[K[K[33mcommit f583aeb1fed11e3e9a8e660a2b11ecba796120de[m[33m ([m[1;32mbranch2[m[33m)[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:47:06 2025 -0300[m
+:[K[K[m
+:[K[K    Commit na branch2[m
+:[K[K[m
+:[K[K[33mcommit 070209506c1b4f1a31a779372eb839db1b3add94[m[33m ([m[1;32mbranch1[m[33m)[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:46:51 2025 -0300[m
+:[K[K[m
+:[K[K    Commit na branch1[m
+:[K[K[m
+:[K[K[33mcommit 707a3a72f82a7cdc1c7dce5762f13b6726de1be9[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:46:18 2025 -0300[m
+:[K[K[m
+:[K[K    Primeiro commit[m
+:[K[K[m
+:[K[K[33mcommit 0f780fcf8b6610b38aa2f2c952d178600233de2f[m[m
+:[K[KMerge: a302704 4b084a4[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:45:19 2025 -0300[m
+:[K[K[m
+:[K[K    Resolve conflito entre A e B[m
+:[K[K[m
+:[K[K[33mcommit 4b084a453e61c7d159934016ca4fc35382347c9e[m[33m ([m[1;32mfeature-b[m[33m)[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:43:26 2025 -0300[m
+:[K[K[m
+:[K[K    Feature B[m
+:[K[K[m
+:[K[K[33mcommit a302704c39c57ba3d363837487f75a59f0179545[m[33m ([m[1;32mfeature-a[m[33m)[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:43:05 2025 -0300[m
+:[K[K[m
+:[K[K    Feature A[m
+:[K[K[m
+:[K[K[33mcommit 172eae057369ee909997c73350b9bae7c8bdf942[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:41:46 2025 -0300[m
+:[K[K[m
+:[K[K    v3 main[m
+:[K[K[m
+:[K[K[33mcommit a1d31b14243d341de5359713bdc05bb2962eb891[m[33m ([m[1;32mtest[m[33m, [m[1;32mprod[m[33m)[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:41:10 2025 -0300[m
+:[K[K[m
+:[K[K    v2 main[m
+:[K[K[m
+:[K[K[33mcommit 0632f89f082870bd8ee17d9eadbdb991720ee482[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:22:23 2025 -0300[m
+:[K[K[m
+:[K[K    algum commit[m
+:[K[K[m
+:[K[K[33mcommit e349dcfbd177b5c8f831d473d17404af88b49b71[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:18:24 2025 -0300[m
+:[K[K[m
+:[K[K    commit 2[m
+:[K[K[m
+:[K[K[33mcommit 1912d2813b6a6fde8f73071f06121964a824b1cd[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 10:16:41 2025 -0300[m
+:[K[K[m
+:[K[K    commit 1[m
+:[K[K[m
+:[K[K[33mcommit 39b4871840b01c2eb0e601187e0438ac343573dd[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 09:55:29 2025 -0300[m
+:[K[K[m
+:[K[K    v4[m
+:[K[K[m
+:[K[K[33mcommit a70fb2c43bf4bcb0dbefa89eef0e8ba7c14bea0d[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 09:55:29 2025 -0300[m
+:[K[K[m
+:[K[K    v3[m
+:[K[K[m
+:[K[K[33mcommit 2ddf1b2761e9cbf1a98dbda8c67f183c791bb288[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 09:55:29 2025 -0300[m
+:[K[K[m
+:[K[K    v2[m
+:[K[K[m
+:[K[K[33mcommit 482aa0de86a6d99613863675cac5250afa46633f[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 09:55:16 2025 -0300[m
+:[K[K[m
+:[K[K    v1[m
+:[K[K[m
+:[K[K[33mcommit 4f2ae26ec138ba58bea798dbaa30e0e52921d4ea[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 09:48:08 2025 -0300[m
+:[K[K[m
+:[K[K    Corrige v2 revertido[m
+:[K[K[m
+:[K[K[33mcommit 9a35ccc780b22a404bd16e5d7bfb404294a256f5[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 09:46:39 2025 -0300[m
+:[K[K[m
+:[K[K    v2[m
+:[K[K[m
+:[K[K[33mcommit b79c80b8d293aff922b486048b44accd6649119b[m[m
+:[K[KAuthor: Moisés Fonteles <moises.fonteles@docasdoceara.com.br>[m
+:[K[KDate:   Thu Aug 7 09:46:39 2025 -0300[m
+:[K[K[m
+:[K[K    v1[m
+:[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [K::[Kww[K[7m(END)[27m[K[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Aug  7 13:29:33 2025

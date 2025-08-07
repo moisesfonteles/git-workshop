@@ -1,0 +1,154 @@
+Script started on Thu Aug  7 10:45:58 2025
+Restored session: Thu Aug  7 10:45:37 -03 2025
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI ~ % [K[?2004hccd git-workshop[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mecho "linha 1" > arquivo.txt[27m
+[7mgit add arquivo.txt[27m[K
+[7mgit commit -m "Primeiro commit"[27m[K[A[A[18C[27me[27mc[27mh[27mo[27m [27m"[27ml[27mi[27mn[27mh[27ma[27m [27m1[27m"[27m [27m>[27m [27ma[27mr[27mq[27mu[27mi[27mv[27mo[27m.[27mt[27mx[27mt[1B[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27ma[27mr[27mq[27mu[27mi[27mv[27mo[27m.[27mt[27mx[27mt[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m"[27mP[27mr[27mi[27mm[27me[27mi[27mr[27mo[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m"[?2004l
+[main 707a3a7] Primeiro commit
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit branch branch1[27m
+[7mgit branch branch2[27m[K
+[7mgit branch branch3[27m[K[A[A[31C[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m1[1B[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m2[1B[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m3[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit branch[?2004l
+[?1h=  branch1[m[m
+  branch2[m[m
+  branch3[m[m
+  feature-a[m[m
+  feature-b[m[m
+* [32mmain[m[m
+  prod[m[m
+  test[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit checkout r branch1[?2004l
+Switched to branch 'branch1'
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mecho "linha 2 na branch1" >> ar[7mq[7muivo.txt[27m[K
+[7mgit commit -am "Commit na branch1"[27m[K[A[A[15C[27me[27mc[27mh[27mo[27m [27m"[27ml[27mi[27mn[27mh[27ma[27m [27m2[27m [27mn[27ma[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m1[27m"[27m [27m>[27m>[27m [27ma[27mrq[27mu[27mi[27mv[27mo[27m.[27mt[27mx[27mt[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27ma[27mm[27m [27m"[27mC[27mo[27mm[27mm[27mi[27mt[27m [27mn[27ma[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m1[27m"[?2004l
+[branch1 0702095] Commit na branch1
+ 1 file changed, 1 insertion(+)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit  g  echo "linha 2 na branch1" >> arquivo.txt[K
+git commit -am "Commit na branch1"[K[A[A[15C[2B[A[A[49Cgit checkout branch1[K[1B[K[1B[K[A[A[69C 2[?2004l[1BSwitched to branch 'branch2'
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mecho "linha 2 na branch2" >> ar[7mq[7muivo.txt[27m[K
+[7mgit commit -am "Commit na branch2"[27m[K[A[A[15C[27me[27mc[27mh[27mo[27m [27m"[27ml[27mi[27mn[27mh[27ma[27m [27m2[27m [27mn[27ma[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m2[27m"[27m [27m>[27m>[27m [27ma[27mrq[27mu[27mi[27mv[27mo[27m.[27mt[27mx[27mt[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27ma[27mm[27m [27m"[27mC[27mo[27mm[27mm[27mi[27mt[27m [27mn[27ma[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m2[27m"[?2004l
+[branch2 f583aeb] Commit na branch2
+ 1 file changed, 1 insertion(+)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hecho "linha 2 na branch2" >> arquivo.txt[K
+git commit -am "Commit na branch2"[K[A[A[15Cgit checkout branch2[K[1B[K[1B[K[A[A[69C 3[?2004l[1BSwitched to branch 'branch3'
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit checkout branch3[27m
+[7mecho "linha 2 na branch3" >> arquivo.txt[27m[K
+[7mgit commit -am "Commit na branch3"[27m[K[A[A[15C[27mg[27mi[27mt[27m [27mc[27mh[27me[27mc[27mk[27mo[27mu[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m3[1B[27me[27mc[27mh[27mo[27m [27m"[27ml[27mi[27mn[27mh[27ma[27m [27m2[27m [27mn[27ma[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m3[27m"[27m [27m>[27m>[27m [27ma[27mr[27mq[27mu[27mi[27mv[27mo[27m.[27mt[27mx[27mt[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27ma[27mm[27m [27m"[27mC[27mo[27mm[27mm[27mi[27mt[27m [27mn[27ma[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m3[27m"[?2004l
+Already on 'branch3'
+[branch3 c8daaad] Commit na branch3
+ 1 file changed, 1 insertion(+)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit checkout main[?2004l
+Switched to branch 'main'
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit merge branch1[?2004l
+Updating 707a3a7..0702095
+Fast-forward
+ arquivo.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit ,e  merge ba ranch2[?2004l
+Auto-merging arquivo.txt
+CONFLICT (content): Merge conflict in arquivo.txt
+Automatic merge failed; fix conflicts and then commit the result.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hi ggit status[?2004l
+On branch main
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+	[31mboth modified:   arquivo.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit merge branch3[?2004l
+error: Merging is not possible because you have unmerged files.
+[33mhint: Fix them up in the work tree, and then use 'git add/rm <file>'[m
+[33mhint: as appropriate to mark resolution and make a commit.[m
+fatal: Exiting because of an unresolved conflict.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit status[?2004l
+On branch main
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+	[31mboth modified:   arquivo.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hnnano arquivo.txt[?2004l
+[?1049h[1;24r[1;1H[J[7m  UW PICO 5.09                           New Buffer                             [27m[23;1H[K[24;1H[K[23;1H[7m^[27m[7mG[27m Get Help  [7m^[27m[7mO[27m WriteOut  [7m^[27m[7mR[27m Read File [7m^[27m[7mY[27m Prev Pg   [7m^[27m[7mK[27m Cut Text  [7m^[27m[7mC[27m Cur Pos   [K[24;1H[7m^[27m[7mX[27m Exit      [7m^[27m[7mJ[27m Justify   [7m^[27m[7mW[27m Where is  [7m^[27m[7mV[27m Next Pg   [7m^[27m[7mU[27m UnCut Text[7m^[27m[7mT[27m To Spell  [K[3;1H[22;1H                                                                                [22;33H[7m[ Reading file ][27m[22;1H                                                                                [22;33H[7m[ Read 6 lines ][27m[1;1H[J[7m  UW PICO 5.09                       File: arquivo.txt                          [27m[3;1Hlinha 1[4;1H<<<<<<< HEAD[5;1Hlinha 2 na branch1[6;1H=======[7;1Hlinha 2 na branch2[8;1H>>>>>>> branch2[23;1H[K[24;1H[K[23;1H[7m^[27m[7mG[27m Get Help  [7m^[27m[7mO[27m WriteOut  [7m^[27m[7mR[27m Read File [7m^[27m[7mY[27m Prev Pg   [7m^[27m[7mK[27m Cut Text  [7m^[27m[7mC[27m Cur Pos   [K[24;1H[7m^[27m[7mX[27m Exit      [7m^[27m[7mJ[27m Justify   [7m^[27m[7mW[27m Where is  [7m^[27m[7mV[27m Next Pg   [7m^[27m[7mU[27m UnCut Text[7m^[27m[7mT[27m To Spell  [K[3;1H[4;1H[3;1H[4;1H[5;1H[6;1H[5;1H[4;1H[1;34H[7mFile: arquivo.txt                    Modified[27m[4;7H[P[4;1H[4;6H[P[4;1H[4;5H[P[4;1H[4;4H[P[4;1H[4;3H[P[4;1H[4;2H[P[4;1H[P[4;1H[P[4;1H[P[4;1HAD [4;1HD [4;1H [4;1H[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1Hh1 [5;1H1 [5;1H [5;1H=======[6;1Hlinha 2 na branch2[7;1H>>>>>>> branch2   [8;1H[K[5;1H[5;7H [5;1H[6;1H[5;1H[5;6H [5;1H[5;5H [5;1H[5;4H [5;1H[5;3H [5;1H[5;2H [5;1H [5;1Hlinha 2 na branch2[6;1H>>>>>>> branch2   [7;1H[K[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1Hh2 [5;1H2 [5;1H [5;1H>>>>>>> branch2[6;1H[K[5;1H[5;7H[P[5;1H[5;6H[P[5;1H[5;5H[P[5;1H[5;4H[P[5;1H[5;3H[P[5;1H[5;2H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1H[P[5;1Hh2 [5;1H2 [5;1H [5;1H[4;1H[3;8H[4;1H[5;1H[4;1H[3;8H[23;1H             [7mY[27m Yes                                                            [K[24;2H[7mC[27m Cancel    [7mN[27m No                                                             [K[22;1H                                                                                [22;1H[7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                    [22;62H[27m[7mYes[27m[22;1H                                                                                [22;1H[7mFile Name to write :                                                            [22;22H[27m[23;1H[7m^[27m[7mG[27m Get Help  [7m^[27m[7mT[27m  To Files                                                     [K[24;14H[7mT[27m[7mA[27m[7mB[27m Complete                                                     [K[7m[22;22Harquivo.txt                                                [22;33H[27m[22;1H                                                                                [22;1H[7mFile Name to write :                                                            [22;22H[27m[7marquivo.txt                                                [22;33H[27m[22;1H                                                                                [22;1H[7mFile Name to write :                                                            [22;22H[27m[7marquivo.txt                                                [22;33H[27m[22;1H                                                                                [22;1H[7mFile Name to write :                                                            [22;22H[27m[7marquivo.txt                                                [22;33H[27m[22;1H                                                                                [22;34H[7m[ Writing... ][27m[22;1H                                                                                [22;33H[7m[ Wrote 1 line ][27m[23;1H[K[24;1H[K[?1049l[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggiy s  t sa tatus[?2004l
+On branch main
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+	[31mboth modified:   arquivo.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004h[7mgit add arquivo.txt[27m
+[7mgit commit -m "Resolvido conflito"[27m[K[A[15C[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27ma[27mr[27mq[27mu[27mi[27mv[27mo[27m.[27mt[27mx[27mt[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m"[27mR[27me[27ms[27mo[27ml[27mv[27mi[27md[27mo[27m [27mc[27mo[27mn[27mf[27ml[27mi[27mt[27mo[27m"[?2004l
+[main 35f8ac0] Resolvido conflito
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit bta  ranch[?2004l
+[?1h=  branch1[m[m
+  branch2[m[m
+  branch3[m[m
+  feature-a[m[m
+  feature-b[m[m
+* [32mmain[m[m
+  prod[m[m
+  test[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit mergeb  branch3[?2004l
+hint: Waiting for your editor to close the file... [?1049h[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"~/git-workshop/.git/MERGE_MSG" 6L, 249B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1HMerge branch 'branch3'
+# Please enter a commit message to explain why this merge is necessary,[2;72H[K[3;1H# especially if it merges an updated upstream into a topic branch.[3;67H[K[4;1H#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+[94m~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?4m[27m[23m[29m[m[H[2J[?25l[1;1HMerge branch 'branch3'
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+[94m~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;1H"~/git-workshop/.git/MERGE_MSG" 6L, 249B[1;1H[?25h
+
+
+
+
+[?25l[24;1H[K[24;1H:[?25hwq[?25l[?2004l[>4;m".git/MERGE_MSG" 6L, 249B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[?25h[>4;m[KMerge made by the 'ort' strategy.
+ arquivo.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit status[?2004l
+On branch main
+nothing to commit, working tree clean
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004hggit logm   --onei lie ne --all[?2004l
+[?1h=[33m7996f37[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m Merge branch 'branch3'[m
+[33m35f8ac0[m Resolvido conflito[m
+[33mc8daaad[m[33m ([m[1;32mbranch3[m[33m)[m Commit na branch3[m
+[33mf583aeb[m[33m ([m[1;32mbranch2[m[33m)[m Commit na branch2[m
+[33m0702095[m[33m ([m[1;32mbranch1[m[33m)[m Commit na branch1[m
+[33m707a3a7[m Primeiro commit[m
+[33m0f780fc[m Resolve conflito entre A e B[m
+[33m4b084a4[m[33m ([m[1;32mfeature-b[m[33m)[m Feature B[m
+[33ma302704[m[33m ([m[1;32mfeature-a[m[33m)[m Feature A[m
+[33m172eae0[m v3 main[m
+[33ma1d31b1[m[33m ([m[1;32mtest[m[33m, [m[1;32mprod[m[33m)[m v2 main[m
+[33m0632f89[m algum commit[m
+[33me349dcf[m commit 2[m
+[33m1912d28[m commit 1[m
+[33m39b4871[m v4[m
+[33ma70fb2c[m v3[m
+[33m2ddf1b2[m v2[m
+[33m482aa0d[m v1[m
+[33m4f2ae26[m Corrige v2 revertido[m
+[33m9a35ccc[m v2[m
+[33mb79c80b[m v1[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Mac-mini-de-CODTEI.local/Users/moisesfonteles/git-workshop[0m[27m[24m[Jmoisesfonteles@Mac-mini-de-CODTEI git-workshop % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Aug  7 10:50:23 2025
